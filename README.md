@@ -33,8 +33,6 @@
 | **Webserv** | A complete HTTP server written in C++ 98 | C++, Sockets, Poll/Select |
 | **Cub3d** | A 3D game engine using Raycasting | C, MLX, Math |
 | **Minishell** | A custom Bash implementation | C, Processes, Signals |
-| **Inception** | Docker system administration | Docker, Compose, Nginx |
-
 ---
 
 <div align="center">
