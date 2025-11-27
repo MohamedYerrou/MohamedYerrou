@@ -23,7 +23,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MohamedYerrou&show_icons=true&theme=tokyonight&count_private=true" alt="Mohamed's GitHub stats" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedYerrou&layout=compact&theme=tokyonight" />
-  <img ![Snake animation](https://github.com/MohamedYerrou/MohamedYerrou/raw/output/github-contribution-grid-snake-dark.svg) />
+  ![Snake animation](https://github.com/MohamedYerrou/MohamedYerrou/raw/output/github-contribution-grid-snake-dark.svg)
 </div>
 
 ---
