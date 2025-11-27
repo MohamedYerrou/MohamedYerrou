@@ -21,8 +21,10 @@
 ### 📊 My GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohamedYerrou&show_icons=true&theme=tokyonight&count_private=true" alt="Mohamed's GitHub stats" />
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedYerrou&layout=compact&theme=tokyonight" />
+  
+  <br/>
+  
   ![Snake animation](https://github.com/MohamedYerrou/MohamedYerrou/raw/output/github-contribution-grid-snake-dark.svg)
 </div>
 
@@ -34,14 +36,15 @@
 | **Webserv** | A complete HTTP server written in C++ 98 | C++, Sockets, Poll/Select |
 | **Cub3d** | A 3D game engine using Raycasting | C, MLX, Math |
 | **Minishell** | A custom Bash implementation | C, Processes, Signals |
+
 ---
 
 <div align="center">
   <p>Connect with me:</p>
-  <a href="mailto:your_email@student.1337.ma">
+  <a href="mailto:myerrou@student.1337.ma">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+  <a href="https://www.linkedin.com/in/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
