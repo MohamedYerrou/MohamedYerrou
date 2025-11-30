@@ -3,7 +3,6 @@
   <p>Software Engineering Student @ 1337 (42 Network)</p>
   <p><i>"I turn coffee into C++ code."</i></p>
 </div>
-
 ---
 
 ### 🛠️ Languages & Tools
@@ -19,6 +18,7 @@
 
 ### 📊 My GitHub Stats
 <div align="center">
+  
   <img src="https://github-readme-stats.vercel.app/api?username=MohamedYerrou&show_icons=true&theme=tokyonight&count_private=true" alt="Mohamed's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedYerrou&layout=compact&theme=tokyonight" />
   
