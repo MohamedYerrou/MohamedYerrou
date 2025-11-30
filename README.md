@@ -6,13 +6,6 @@
 
 ---
 
-### 🏆 Achievements
-<div align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=MohamedYerrou&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
----
-
 ### 🛠️ Languages & Tools
 <div align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
